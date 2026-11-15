@@ -22,6 +22,7 @@ export default function Footer() {
             <span>lokgi © 2026</span>
             <Link href="/stake" className="transition-colors hover:text-white">Stake</Link>
             <Link href="/docs" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-white">Docs</Link>
+            <Link href="/litepaper" className="transition-colors hover:text-white">Litepaper</Link>
             <Link href="/terms" className="transition-colors hover:text-white">Terms of Service</Link>
             <Link href="/privacy" className="transition-colors hover:text-white">Privacy Policy</Link>
             <Link href="/risk-disclosure" className="transition-colors hover:text-white">Risk Disclosure</Link>
